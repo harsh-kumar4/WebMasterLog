@@ -100,7 +100,7 @@ And these directories contains 3 sub-directories.
  
 </tr>
 </table>
-<br />
+</br>
 
 <!-- -------------------HOW YOU CAN CONTRIBUTE------------------------ -->
 ## :zap: How to Contribute? 🤔
@@ -152,7 +152,7 @@ And these directories contains 3 sub-directories.
     </tr>
   </table>
 </div>
-<br />
+</br>
 
 <!-- -----------------PROJECT CONTRIBUTORS SECTION---------------------- -->
 ## :zap: Project Contributors ❤️
